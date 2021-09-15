@@ -24,6 +24,14 @@ npx create-next-app -e https://github.com/joaosoutto/boilerplate
 yarn create next-app -e https://github.com/joaosoutto/boilerplate
 ```
 
+Enter in project folder and install dependencies:
+
+```bash
+yarn
+# or
+npm install
+```
+
 Then, run the development server:
 
 ```bash
