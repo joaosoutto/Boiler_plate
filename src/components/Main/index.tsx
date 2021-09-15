@@ -7,10 +7,6 @@ const Main = ({
   <S.Wrapper>
     <S.Title>{title}</S.Title>
     <S.Description>{description} w</S.Description>
-    <S.Illustration
-      src="/img/hero-illustration.svg"
-      alt="Dev in front of pc, using it"
-    />
   </S.Wrapper>
 )
 

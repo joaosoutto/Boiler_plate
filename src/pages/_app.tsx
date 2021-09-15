@@ -9,7 +9,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <ThemeProvider theme={theme}>
       <Head>
-        <title>Boilerplate</title>
+        <title>Boilerplate for React and Next</title>
         <link rel="manifest" href="/manifest.json" />
         <meta
           name="description"
